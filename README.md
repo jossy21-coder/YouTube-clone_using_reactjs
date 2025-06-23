@@ -4,7 +4,18 @@ A responsive YouTube clone built using **React**, **CSS**, and **RapidAPI**. It 
 
 ## 🚀 Demo
 
-![App Screenshot](./screenshot.png)
+![Capture1](https://github.com/user-attachments/assets/b57b97eb-b889-402a-a916-a188fc3f69b8)
+![Capture2](https://github.com/user-attachments/assets/197f1f19-ee79-4870-a9f4-85776e003c4c)
+![Capture3](https://github.com/user-attachments/assets/0a2c550a-ca1f-4c43-bb2a-f3f3a594dbc9)
+![Capture4](https://github.com/user-attachments/assets/214e51e0-b342-4449-adde-a8ea5e29f76b)
+![Capture5](https://github.com/user-attachments/assets/be4875ed-ce85-4018-8d1f-5b404e077c67)
+![Capture6](https://github.com/user-attachments/assets/0634aad9-dc23-4e11-8353-e4addd5baa3e)
+
+
+)
+)
+
+)
 
 ---
 
