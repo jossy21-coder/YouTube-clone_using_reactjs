@@ -21,12 +21,6 @@ A responsive YouTube clone built using **React**, **CSS**, and **RapidAPI**. It 
 
 ![Capture6](https://github.com/user-attachments/assets/0634aad9-dc23-4e11-8353-e4addd5baa3e)
 
-
-)
-)
-
-)
-
 ---
 
 ## 📌 Features
